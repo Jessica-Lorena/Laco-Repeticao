@@ -43,8 +43,8 @@ public class Exercicio3 {
 			idade = ler.nextInt();
 		}
 		System.out.println("\nTotal de pessoas com idade negativa: " + in + "\nTotal de pessoas com menos de 21 anos: " + menos21);
-		System.out.println("\nTotal de pessoas com idade entre 21 e 50 anos: " + e21e50 + "\nTotal de pessoas com mais de 50 anos: " + mais50);
-		System.out.println("\nTotal de novas pessoas mais velhas do mundo que merecem estar no Guinness Book: " + GB);
+		System.out.println("Total de pessoas com idade entre 21 e 50 anos: " + e21e50 + "\nTotal de pessoas com mais de 50 anos: " + mais50);
+		System.out.println("Total de novas pessoas mais velhas do mundo que merecem estar no Guinness Book: " + GB);
 	}
 
 }

@@ -22,7 +22,7 @@ public class Exercicio4 {
 		/*i = idade, s = sexo, op = opção, pc = pessoas calmas, mn = mulheres nervosas, ha = homens agressivos
 		 * oc = outros calmos, pn40 = pessoas nervosas com mais de 40 anos, pc18 = pessoas calmas com menos de 18 anos */
 		
-		while(x < 150)
+		while(x <= 150)
 		{
 			System.out.printf("Entre com a sua idade: ");
 			i = ler.nextInt();
